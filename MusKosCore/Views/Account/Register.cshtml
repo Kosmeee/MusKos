@@ -1,0 +1,44 @@
+﻿@using MusKosCore.Models
+@{
+    ViewBag.Title = "Register";
+}
+@model RegisterViewModel
+<div class="form-content ">
+    <!-- paragraph -->
+    <form role="form" id="contactForm" method="post">
+        <div class="row">
+            <div class="col-md-6 col-sm-6 mx-auto">
+                <div class="form-group">
+                    <label for="name">Nickname</label>
+                    @Html.EditorFor(a => a.Nickname, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Nickname, "", new { @class = "text-danger" })
+
+                </div>
+                <div class="form-group">
+                    <label for="email">Email</label>
+                    @Html.EditorFor(a => a.Email, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                </div>
+                <div class="form-group">
+                    <label for="phone">Password</label>
+                    @Html.EditorFor(a => a.Password, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+                </div>
+                <div class="form-group">
+                    <label for="phone">Password Confirmation</label>
+                    @Html.EditorFor(a => a.PasswordConfirm, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.PasswordConfirm, "", new { @class = "text-danger" })
+                </div>
+                <div class="form-group">
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                </div>
+                <button type="submit" class="btn btn-primary mx-auto">Register</button>
+            </div>
+           
+        </div>
+        
+    </form>
+
+</div>
+
+				

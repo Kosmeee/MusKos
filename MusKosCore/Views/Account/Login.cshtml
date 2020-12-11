@@ -1,0 +1,40 @@
+﻿@using MusKosCore.Models
+@model LoginViewModel
+@{
+    ViewBag.Title = "Login";
+}
+<div class="form-content ">
+    <!-- paragraph -->
+    <form method="post" asp-controller="Account" asp-action="Login"
+      asp-route-returnUrl="@Model.ReturnUrl">
+        <div class="row">
+            <div class="col-md-6 col-sm-6 mx-auto">
+                <div class="form-group">
+                    <label for="name">Nickname</label>
+                    @Html.EditorFor(a => a.Nickname, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Nickname, "", new { @class = "text-danger" })
+                </div>
+
+                <div class="form-group">
+                    <label for="password">Password</label>
+                    @Html.EditorFor(a => a.Password, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+                </div>
+
+               
+                    <label for="remember">Remember?</label>
+                    @Html.EditorFor(a => a.RememberMe, new { htmlAttributes = new { @class = "checkbox" } })
+                    @Html.ValidationMessageFor(model => model.RememberMe, "", new { @class = "text-danger" })
+                
+                <div class="form-group">
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                </div>
+                <button type="submit" class="btn btn-primary mx-auto">Login</button>
+            </div>
+
+        </div>
+
+    </form>
+
+</div>
+

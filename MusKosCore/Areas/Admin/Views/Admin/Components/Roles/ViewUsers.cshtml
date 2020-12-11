@@ -1,0 +1,27 @@
+﻿@model IEnumerable<MusKos.Domain.Models.Identity.ApplicationUser>
+
+<h2>Список пользователей</h2>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+
+            <th scope="col">Email</th>
+            <th scope="col">Username</th>
+            <th scope="col">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <th scope="row">@user.Email</th>
+                
+                <td>@user.UserName</td>
+                <td>
+                    @Html.ActionLink("Edit Access", "Edit", "Roles", new { user.Id }, new { @class = "btn-primary" })
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

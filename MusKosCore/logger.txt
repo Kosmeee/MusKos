@@ -1,0 +1,515 @@
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Processing request /
+Processing request /
+Processing request /
+Processing request /favicon.ico
+Processing request /Main
+Processing request /favicon.ico
+Processing request /Account/Register
+Processing request /favicon.ico
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Processing request /
+Processing request /favicon.ico
+Processing request /ma
+Processing request /favicon.ico
+Processing request /main
+Processing request /favicon.ico
+Processing request /main
+Processing request /favicon.ico
+Processing request /main/asdasd
+Processing request /favicon.ico
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Processing request /
+Processing request /favicon.ico
+Processing request /main
+Processing request /favicon.ico
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Processing request /Content/audio/tdg.mp3
+Processing request /Content/audio/tdg.mp3
+Processing request /Content/audio/tdg.mp3
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Processing request /
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Processing request /Content/audio/tdg.mp3
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Processing request /Content/audio/tdg.mp3
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Processing request /Content/audio/tdg.mp3
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Processing request /
+Processing request /main
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Main page loaded
+Main page loaded
+Main page loaded
+Main page loaded
+Application is shutting down...
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+User logged in
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+User logged in
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+User logged in
+Main page loaded
+User logged out
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+User logged in
+Main page loaded
+User logged out
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+User logged in
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+User logged in
+Main page loaded
+User logged out
+Main page loaded
+User logged out
+Main page loaded
+User logged in
+Main page loaded
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Main page loaded
+User logged in
+Main page loaded
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+User logged in
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+User logged in
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+User logged in
+Main page loaded
+Main page loaded
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+User logged in
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+User logged in
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Invalid password for user.
+User 888e1613-85e1-4ec0-b451-0a0279fdb7cf failed to provide the correct password.
+User logged in
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+User logged in
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+User logged in
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+User logged in
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Main page loaded
+User logged in
+Main page loaded
+Main page loaded
+User logged out
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Application startup exception
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Main page loaded
+User logged in
+Main page loaded
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+The view 'Index' was not found. Searched locations: /Views/Govno/Index.cshtml, /Views/Shared/Index.cshtml, /Pages/Shared/Index.cshtml
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+User logged in
+Main page loaded
+Main page loaded
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+User logged in
+Main page loaded
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+User logged in
+Main page loaded
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+User logged in
+Main page loaded
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+User logged in
+Main page loaded
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+User logged in
+Main page loaded
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+User logged in
+Main page loaded
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+User logged in
+Main page loaded
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+User logged in
+Main page loaded
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+User logged in
+Main page loaded
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+User logged in
+Main page loaded
+Main page loaded
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+User logged in
+Main page loaded
+Main page loaded
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+User logged in
+Main page loaded
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Compiling a query which loads related collections for more than one collection navigation either via 'Include' or through projection but no 'QuerySplittingBehavior' has been configured. By default Entity Framework will use 'QuerySplittingBehavior.SingleQuery' which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Compiling a query which loads related collections for more than one collection navigation either via 'Include' or through projection but no 'QuerySplittingBehavior' has been configured. By default Entity Framework will use 'QuerySplittingBehavior.SingleQuery' which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+User logged in
+Main page loaded
+Main page loaded
+Main page loaded
+Main page loaded
+Main page loaded
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+The view 'Tracks' was not found. Searched locations: /Views/Genre/Tracks.cshtml, /Views/Shared/Tracks.cshtml, /Pages/Shared/Tracks.cshtml
+An unhandled exception has occurred while executing the request.
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Main page loaded
+Main page loaded
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\amats\source\repos\MusKosCore\MusKosCore
+Main page loaded
+Main page loaded
+Main page loaded

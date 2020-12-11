@@ -1,0 +1,127 @@
+﻿@using MusKos.Domain.Models
+@model List<Track>
+<head>
+    <meta charset="utf-8">
+    <title>Melodi</title>
+    <!-- Description, Keywords and Author -->
+    <meta name="description" content="Your description">
+    <meta name="keywords" content="Your,Keywords">
+    <meta name="author" content="HimanshuGupta">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Styles -->
+    <!-- Bootstrap CSS -->
+    <link href="../../Content/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Animate CSS -->
+    <link href="../../Content/css/animate.min.css" rel="stylesheet">
+    <!-- Basic stylesheet -->
+    <link rel="stylesheet" href="../../Content/css/owl.carousel.css">
+    <!-- Font awesome CSS -->
+    <link href="~/lib/font-awesome/css/all.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="../../Content/css/style.css" rel="stylesheet">
+    <link href="../../Content/css/style-color.css" rel="stylesheet">
+
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="../../Content/img/logo/favicon.ico">
+    <style id="__web-inspector-hide-shortcut-style__">
+        .__web-inspector-hide-shortcut__, .__web-inspector-hide-shortcut__ *, .__web-inspector-hidebefore-shortcut__::before, .__web-inspector-hideafter-shortcut__::after {
+            visibility: hidden !important;
+        }
+    </style>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        $(function () {
+            $("#latestalbum").on("click", ".playing", (function () {
+                $(this).removeClass("playing");
+                $(this).addClass("paused");
+                $(".fa-pause").removeClass("fa-pause").addClass("fa-play");
+                $(this).children().removeClass("fa-play");
+                $(this).children().addClass("fa-pause");
+                $("#sound")[0].play();
+
+            }))
+            $("#latestalbum").on("click", ".paused", (function () {
+                $(this).removeClass("paused");
+                $(this).addClass("playing");
+                $(this).children().removeClass("fa-pause");
+                $(this).children().addClass("fa-play");
+                $("#sound")[0].pause();
+
+            }))
+        });
+
+    </script>
+
+</head>
+<div id="latestalbum" class="hero pad">
+    <div class="container">
+        <!-- hero content -->
+        <div class="hero-content ">
+            <!-- heading -->
+            <h2>Latest Tracks</h2>
+            <hr>
+            <!-- paragraph -->
+            <p>We sing the best  <strong class="theme-color">Songs</strong> and now we control the world by <strong class="theme-color">Music</strong>.</p>
+        </div>
+        <!-- hero play list -->
+        <div class="hero-playlist">
+            <div class="row">
+                <div class="col-md-6 col-sm-6">
+                    <!-- music album image -->
+                    <div class="figure">
+                        <!-- image -->
+                        <img class="img-responsive" src="../../Content/img/album/1.jpg" alt="">
+                        <!-- disk image -->
+                        <img class="img-responsive disk" src="../../Content/img/album/disk.png" alt="">
+                    </div>
+                    <!-- album details -->
+                    <div class="album-details">
+                        <!-- title -->
+                        <h4>Simple Music</h4>
+                        <!-- composed by -->
+                        <h5>By Kos</h5>
+                        <!-- paragraph -->
+                        <!-- button -->
+                       
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-6">
+                    <!-- play list -->
+                    <div class="playlist-content">
+                        <ul class="list-unstyled">
+                            @{ 
+                                foreach (var a in Model)
+                                {
+                            <li class="playlist-number">
+                                <!-- song information -->
+                                <div class="song-info">
+                                    <!-- song title -->
+                                    <h4>@a.Title</h4>
+                                    <p><strong>Album</strong>: @a.Album.Title &nbsp;|&nbsp; <strong>Type</strong>: @a.Genre.Title &nbsp;|&nbsp; <strong>Singer</strong>: @a.Artist.Nickname</p>
+                                </div>
+                                <!-- music icon -->
+                                <div class="music-icon">
+                                    <a class="playing" onclick="change('@a.Url')"><i class="fas fa-play"></i></a>
+                                    
+                                </div>
+                                <div class="clearfix"></div>
+                                @if(User.Identity.IsAuthenticated)
+                                @Html.ActionLink("Add To Playlist","AddTrack","Playlist",new {id = a.Id})
+                            </li>
+                                   
+                                }
+                                }
+                            
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

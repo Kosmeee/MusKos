@@ -1,0 +1,79 @@
+﻿@using MusKos.Domain.Models
+@model List<Genre>
+@{
+    ViewBag.Title = "Index";
+}
+<head>
+    <meta charset="utf-8">
+    <title>MusKos</title>
+    <!-- Description, Keywords and Author -->
+    <meta name="description" content="Your description">
+    <meta name="keywords" content="Your,Keywords">
+    <meta name="author" content="HimanshuGupta">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Styles -->
+    <!-- Bootstrap CSS -->
+    <link href="../../Content/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Animate CSS -->
+    <link href="../../Content/css/animate.min.css" rel="stylesheet">
+    <!-- Basic stylesheet -->
+    <link rel="stylesheet" href="../../Content/css/owl.carousel.css">
+    <!-- Font awesome CSS -->
+    <link href="../../Content/css/font-awesome.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="../../Content/css/style.css" rel="stylesheet">
+    <link href="../../Content/css/style-color.css" rel="stylesheet">
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="../../Content/img/logo/favicon.ico">
+    <style id="__web-inspector-hide-shortcut-style__">
+        .__web-inspector-hide-shortcut__, .__web-inspector-hide-shortcut__ *, .__web-inspector-hidebefore-shortcut__::before, .__web-inspector-hideafter-shortcut__::after {
+            visibility: hidden !important;
+        }
+    </style>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    </head>
+<body>
+    <div class="featured pad" id="featuredalbum">
+        <div class="container">
+            <!-- default heading -->
+            <div class="default-heading">
+                <!-- heading -->
+                <h2>Genres</h2>
+            </div>
+            <!-- featured album elements -->
+            <div class="featured-element">
+                <div class="row">
+                    @{ foreach (var a in Model)
+                        {
+                            <div class="col-md-4 col-sm-6">
+                                <!-- featured item -->
+                                <div class="featured-item ">
+                                    <!-- image container -->
+                                    <div class="figure">
+                                        <!-- image -->
+                                        <img class="img-responsive" width="360" height="360" src="~/Content/img/genres/@a.Image"alt="" />
+                                        <!-- paragraph -->
+                                        <a href="@Url.Action("GetTracks","Genre",new {id=a.Id })"><p>Listen</p></a>
+                                    </div>
+                                    <!-- featured information -->
+                                    <div class="featured-item-info">
+                                        <!-- featured title -->
+                                        <h4>@a.Title</h4>
+                                        <!-- horizontal line -->
+                                        <hr />
+                                        <!-- some responce from social medial or web likes -->
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    }
+
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+

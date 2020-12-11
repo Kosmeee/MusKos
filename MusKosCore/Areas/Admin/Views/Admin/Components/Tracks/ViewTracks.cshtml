@@ -1,0 +1,49 @@
+﻿@using MusKosCore.Models
+@model List<ViewTrack>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" href="~/css/site.css" />
+
+@Html.ActionLink("Create", "Add", "Track", null, new { @class = "btn btn-primary" })
+<table class="table table-bordered">
+    <thead>
+        <tr>
+
+            <th scope="col">Title</th>
+            <th scope="col">Artist</th>
+            <th scope="col">Album</th>
+            <th scope="col">Genre</th>
+            <th scope="col">Url</th>
+            <th scope="col">Image</th>
+            <th scope="col">Added Date</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @{
+            foreach (var a in Model)
+            {
+
+
+
+
+
+                <tr>
+                    <th scope="row">@a.Title</th>
+                    <td>@a.Artist.Nickname</td>
+                    <td>@a.Album.Title</td>
+                    <td>@a.Genre.Title</td>
+                    <td>@a.Url</td>
+                    <td>@a.Image</td>
+                    <td>@a.AddedDate</td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = a.Id }, null)
+                        @Html.ActionLink("Delete", "Delete", new { id = a.Id }, null)
+                    </td>
+                </tr>
+
+
+            }
+        }
+
+    </tbody>
+</table>
